@@ -1,0 +1,18 @@
+.div{
+    position:absolute;
+}
+#sure{
+    font-size:60px;
+}
+.run{
+    display:block;
+    width:30%;
+    text-align:center;
+    color:#000;
+    font-size:60px;
+    border:1px solid red;
+    border-radius: 20px;
+    position:absolute;
+    bottom:10%;
+    left:35%;
+}
